@@ -17,6 +17,7 @@
     "chart.js": "^2.8.0",
     "gatsby": "^2.13.73",
     "gatsby-plugin-emotion": "^4.1.4",
+    "gatsby-plugin-google-analytics": "^2.1.12",
     "gatsby-plugin-typography": "^2.3.5",
     "react": "^16.9.0",
     "react-chartjs-2": "^2.7.6",
